@@ -1,5 +1,3 @@
-#!/bin/python3
-
 from urllib import request
 import json
 import turtle
